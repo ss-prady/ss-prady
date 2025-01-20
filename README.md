@@ -1,8 +1,7 @@
-# 👋 Hi there, I'm [Your Name]!  
+# 👋 Hi there, I'm Pradyuman!  
 
 ## 🚀 About Me
 - 🖥️ **BTech second-year student** in Computer Science and Engineering at IIT Roorkee.
-- 🎓 Scored a perfect 10 in the **IKS-102 course**.
 - 🙏 Volunteer at the **Sanskrit Club, IIT Roorkee**, contributing to events on Indian Knowledge Systems, covering topics such as:
   - Natyashastra
   - Darshanas
@@ -26,9 +25,9 @@
 - 🎉 Played a key role in promoting and preserving the rich cultural heritage of India through my volunteer work.
 
 ## 📫 Let's Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/pradyuman-shekhawat/)
+- 🐦 [Instagram](https://www.instagram.com/pr4dyum4n/)
+- 📧 Email: (pradyuman_ss@cs.iitr.ac.in)
 
 ---
 
