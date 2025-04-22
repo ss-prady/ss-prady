@@ -1,34 +1,54 @@
-# 👋 Hi there, I'm Pradyuman!  
+# 👋 Hello there! I'm Pradyuman.
 
-## 🚀 About Me
-- 🖥️ **BTech second-year student** in Computer Science and Engineering at IIT Roorkee.
-- 🙏 Volunteer at the **Sanskrit Club, IIT Roorkee**, contributing to events on Indian Knowledge Systems, covering topics such as:
-  - Natyashastra
-  - Darshanas
-  - Sanskrit Origins
-  - Consciousness
-  - Bharatiya Astronomy
-- 🎤 Part of the **Vedic Chanting team** for Convocation 2024 at IIT Roorkee.
-
-## 🌱 Interests
-- 🕉️ Exploring ancient Indian knowledge and its application in modern technology and society.
-- 📜 Passionate about reading, poetry, and reciting **stotras**.
-- 💡 Enthusiastic about blending **ancient wisdom** with modern innovations to foster positive transformations.
-
-## 💻 Tech Interests
-- **Verilog**: Currently working on a project implementing a common bus architecture for a superscalar processor.
-- **Programming**: Building efficient and impactful software solutions.
-- Exploring intersections of **technology** and **philosophy** for innovation.
-
-## 🏆 Contributions
-- 🌟 Assisted in organizing enlightening events on **Indian Knowledge Systems** at IIT Roorkee.
-- 🎉 Played a key role in promoting and preserving the rich cultural heritage of India through my volunteer work.
-
-## 📫 Let's Connect
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pradyuman-shekhawat/)
-- 🐦 [Instagram](https://www.instagram.com/pr4dyum4n/)
-- 📧 Email: (pradyuman_ss@cs.iitr.ac.in)
+Welcome to my GitHub profile! I'm a curious explorer at the intersection of **systems programming**, **quantum computing**, and **Indian Knowledge Systems**. I love learning by doing and sharing knowledge along the way.
 
 ---
 
-Thank you for visiting my profile! Feel free to reach out for collaboration, ideas, or a friendly chat about technology and ancient knowledge! 😊
+## 🔧 Current Projects
+
+- 🚀 **Multi-Threaded File Server with Access Control**  
+  A robust C/C++ server supporting file uploads/downloads, user authentication, role-based access (read-only/read-write), and secure multi-client communication with logging and synchronization.
+
+- 🛠 **SIC/XE Assembler Implementation**  
+  Exploring the classic SIC/XE architecture from scratch — covering everything from instruction formats and program blocks to loaders and debugging tools. Documented with detailed, in-depth commentary for fellow learners.
+
+---
+
+## 📚 Interests
+
+- 🧠 **Quantum Computing**  
+  Delivering talks and building a foundational understanding of quantum algorithms and qubits.
+
+- 📜 **Indian Knowledge Systems**  
+  Involved with IIT Roorkee’s Center for Indian Knowledge Systems and the Sanskrit Club. Hosting and anchoring guest lectures blending traditional wisdom with modern science.
+
+- 🧵 **Systems Programming**  
+  Passionate about writing clean, efficient C/C++ code and diving deep into OS-level constructs like threads, file locks, sockets, and memory management.
+
+---
+
+## 🎤 Talks & Events
+
+- 🎙️ Guest Lecture Anchor | IIT Roorkee | Center for Indian Knowledge Systems  
+  Bridging tradition and technology in a balanced, engaging format — blending formality with a spark of wit.
+
+- 🧑‍🏫 Speaker | Quantum Computing 101  
+  Demystifying the quantum realm for new learners through simplified, structured insights.
+
+---
+
+## 🛠 Tools & Tech Stack
+
+- Languages: `C` | `C++` | `Python` | `Assembly (SIC/XE)`
+- Concepts: `Multi-threading` | `Socket Programming` | `Role-based Access` | `Assembler/Loader Design`
+- Platforms: macOS | Linux
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to check out my repositories, open an issue for feedback, or reach out if you’re passionate about building systems from the ground up or exploring the convergence of tech and tradition.
+
+> “Knowledge, like fire, must be kindled before it spreads.”  
+> — Let’s keep the spark alive.
+
