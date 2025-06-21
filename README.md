@@ -1,4 +1,4 @@
-Namaste World, I'm Pradyuman!
+# Namaste World, I'm Pradyuman!
 
 Welcome to my GitHub profile! I'm a curious explorer at the intersection of **systems programming**, **quantum computing**, and **Machine Learning**. I love learning by doing and sharing knowledge along the way.
 
